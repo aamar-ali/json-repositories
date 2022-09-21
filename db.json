@@ -1,21 +1,20 @@
 {
-	"freemium_countries" : {
-
-	"freemium_countries" : [
-	{
-	"iso_code" : "us",
-	"is_recommended" : true
-	},
-	{
-	"iso_code" : "uk",
-	"is_recommended" : false
-	}
-,
-	{
-	"iso_code" : "nl",
-	"is_recommended" : false
-	}
-
-	]
-	}
+  "android": {
+    "freemium_countries": {
+      "freemium_countries": [
+        {
+          "iso_code": "us",
+          "is_recommended": true
+        },
+        {
+          "iso_code": "uk",
+          "is_recommended": false
+        },
+        {
+          "iso_code": "nl",
+          "is_recommended": false
+        }
+      ]
+    }
+  }
 }
