@@ -1,6 +1,5 @@
 {
-  "android": {
-    "freemium_countries": {
+"freemium_countries": {
       "freemium_countries": [
         {
           "iso_code": "us",
@@ -16,5 +15,4 @@
         }
       ]
     }
-  }
 }
